@@ -23,11 +23,11 @@
 
 #### How to use your library (where applicable)
 
-- `npm test`
 
 #### Tests
 
 - How do you run tests?
+- `npm test`
 - Any tests of note?
 - Describe any tests that you did not complete, skipped, etc
 
