@@ -17,7 +17,7 @@ app.use(logger);
 
 
 // Person Route
-app.get('/person', (req, res) => {
+app.get('/person', validator, (req, res) => {
   let name = req.query.name;
   res.status(200).json({name: name});
 });
