@@ -31,6 +31,4 @@
 - Any tests of note?
 - Describe any tests that you did not complete, skipped, etc
 
-#### UML
-
-![UML Example](./reference/uml-1.png)
+[UML](./lab02.png)
